@@ -1,2 +1,2 @@
-# ACM-RECRUITMENT--Amruthavarsha-A
+# ACM Recruitment - Second Update
 This is an introductory file
